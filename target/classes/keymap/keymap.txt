@@ -1,0 +1,23 @@
+Joueur 1
+Touche gauche - monter
+Touche bas - descendre
+Touche gauche - déplacer vers la gauche
+Touche droite - déplacer vers la droite
+
+Joueur 2
+W - monter
+S - descendre
+A - aller à gauche
+D - aller à droite
+
+Joueur 3
+H - monter
+N - descendre
+M - déplacer vers la gauche
+B - aller à droite
+
+Joueur 4
+U - monter
+J - descendre
+I - aller à gauche
+K - aller à droite
