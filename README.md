@@ -1,4 +1,5 @@
 # Java Snake game
+![](s.png)
 ## description 
 ce projet maven est Java Swing Application + Spring framework,il représente jeu de serpents qui autorise plusieurs joueurs de jouer ensembles
 
